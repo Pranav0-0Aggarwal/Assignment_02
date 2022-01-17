@@ -82,9 +82,9 @@ print("a >> 2 : ", a >> 2, "\tb >> 2 :", b >> 2)
 print("Question 4")
 
 # taking input of 3 numbers from the user.
-a = input("Enter 1st no. : ")
-b = input("Enter 2nd no. : ")
-c = input("Enter 3rd no. : ")
+a = int(input("Enter 1st no. : "))
+b = int(input("Enter 2nd no. : "))
+c = int(input("Enter 3rd no. : "))
 
 #finding the highest no.
 if a > b:
