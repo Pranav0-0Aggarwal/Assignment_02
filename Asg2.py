@@ -1,7 +1,7 @@
 #Question 1
 print("Question 1")
 input_string = "Python is a case sensitive language"
-#print a
+#part a
 print("Part a")
 print(len(input_string))
 print("\n")
@@ -52,7 +52,7 @@ print("Question 3")
 a = 56
 b = 10
 
-#Print A
+#Part A
 print("Part A")
 print(" a&b : ", a & b)
 print("\n")
