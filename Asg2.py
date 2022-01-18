@@ -76,7 +76,7 @@ print("\n")
 #Part E
 # Right shift a with 2 bits and b with 4 bits.
 print("Part E")
-print("a >> 2 : ", a >> 2, "\tb >> 2 :", b >> 2)
+print("a >> 2 : ", a >> 2, "\tb >> 4 :", b >> 4)
 ###################################################################################
 #Question 4
 print("Question 4")
