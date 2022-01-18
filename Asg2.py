@@ -43,7 +43,7 @@ SID=input("Please enter your SID- ")
 Dept_name=input("Please enter your department name- ")
 CGPA= input("Please enter your CGPA- ")
 
-print(f"Hey, {name} here!\nMy SID is {SID}\nI am from {Dept_name} and my CGPA is {CGPA}")
+print('Hey, %s here!\nMy SID is %s\nI am from %s and my CGPA is %s'%(name,SID,Dept_name,CGPA))
 #################################################################################
 #Question 3
 print("Question 3")
