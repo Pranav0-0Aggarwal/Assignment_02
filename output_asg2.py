@@ -59,7 +59,7 @@ a << 2 :  224 	b << 2 : 40
 
 
 Part E
-a >> 2 :  14 	b >> 2 : 2
+a >> 2 :  14 	b >> 4 : 0
 
 ===== RESTART: /Users/pranavaggarwal/Documents/Python Clg/Assignment 2/4.py ====
 Question 4
