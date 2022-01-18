@@ -27,7 +27,7 @@ print("\n")
 
 #part e
 print("part e")
-print(input_string.index("i"))
+print(input_string.index("a"))
 print("\n")
 
 #part f
