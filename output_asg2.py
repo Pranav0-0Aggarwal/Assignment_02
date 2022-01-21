@@ -20,7 +20,7 @@ Python is object oriented language
 
 
 part e
-27
+10
 
 
 part f
