@@ -26,6 +26,7 @@ print(input_string)
 print("\n")
 
 #part e
+input_string = "Python is a case sensitive language"
 print("part e")
 print(input_string.index("a"))
 print("\n")
